@@ -47,8 +47,7 @@
                   child)
               )
             );
-          }.bind(this)),
-          React.createElement("div", {className: "clearFix"})
+          }.bind(this))
         )
       );
     },
